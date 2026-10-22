@@ -4,7 +4,7 @@ An open-source collaborative speculative fiction project.
 
 > *“Here’s to us.”*
 
-In a future of abundance and radical divergence—Naties, Bios, Cybies, Softwies, and the Steward Super Intelligence—the phrase is a toast raised across modes of existence. It affirms that something shared remains, even when “us” is no longer obvious and must be actively chosen.
+In a future of abundance and radical divergence—Naties, Bios, Cybies, Softwies, and the Steward Super Intelligence that runs this circus.
 
 ---
 
