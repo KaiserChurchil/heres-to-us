@@ -1,6 +1,6 @@
 # Here's to Us
 
-An open-source collaborative speculative fiction project.
+An open-source collaborative speculative science fiction project.
 
 > *“Here’s to us.”*
 
